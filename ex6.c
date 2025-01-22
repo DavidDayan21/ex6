@@ -7,6 +7,7 @@
 # define INT_BUFFER 128
 
 // ================================================
+//
 // Basic struct definitions from ex6.h assumed:
 //   PokemonData { int id; char *name; PokemonType TYPE; int hp; int attack; EvolutionStatus CAN_EVOLVE; }
 //   PokemonNode { PokemonData* data; PokemonNode* left, *right; }
